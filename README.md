@@ -1,1 +1,1 @@
-Sample Docker project
+Original Nginx Docker Image based on Ubuntu
